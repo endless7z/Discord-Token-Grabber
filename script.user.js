@@ -1,4 +1,3 @@
-  
 // ==UserScript==
 // @name         Token Grabber & Nuker
 // @version      1.0.0
